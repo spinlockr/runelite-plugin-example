@@ -3,7 +3,7 @@
     * The File Path where the file is located in the system
     * It also includes a ConfigExamplePlugin.java with 0 bytes 
     * home/matthew/Documents/runelite/runelite-client/src/main/java/net/runelite/client/plugins/configexample
-    * The following program is an example pulled from osrsbox online 
+    * The following program is an example rewritten from osrsbox online 
 */
 
 
